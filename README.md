@@ -1,23 +1,15 @@
-<img align="center" height="200" src="https://cdn2.iconfinder.com/data/icons/luchesa-part-3/128/Programming-1024.png" />
-
-
+| :--------------------------: |
+<img align="center" height="500" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 <h1 align="center">Hi, I'm Nancy</h1>
 <h3 align="center">"Code today, Deploy Tommorow 💻"</h3>
 
-
-
-
-
-
-
-
-
 ###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
   <img width="12" />
   
 </div>
@@ -31,6 +23,8 @@
 
 
  ⚡ Fun fact **🔍 Why are software bugs called “bugs”? In 1947, engineers found a real moth stuck in the Harvard Mark II computer—circuit literal bugs. Grace Hopper logged the incident as “debugging,” and the term stuck!**
+
+<img align="right" height="200" src="https://cdn2.iconfinder.com/data/icons/luchesa-part-3/128/Programming-1024.png" />
 
 
 
@@ -58,7 +52,11 @@ about: # Introduction
 <a href="https://instagram.com/https://www.instagram.com/nancyverma6746" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nancyverma6746" height="30" width="40" /></a>
 </p>
 
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge)](mailto:nancy45815@gmail.com)
+[![Email](https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge)](mailto:nancy45815@gmail.com)
+
+
+
+
 
 ###
 
@@ -70,6 +68,9 @@ about: # Introduction
 <!--STARTS_HERE_QUOTE_README-->
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <!--ENDS_HERE_QUOTE_README-->
+
+<img align="right" height="300" src="https://as1.ftcdn.net/v2/jpg/06/10/94/36/1000_F_610943692_fB6LgF00MxHlxta8VlRq1qskoFdySIT4.jpg" />
+
 
 
 ### Small Projects
