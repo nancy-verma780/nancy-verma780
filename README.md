@@ -1,9 +1,15 @@
-| :-----------------------------: |
-![Nancy Verma](https://github.com/user-attachments/assets/f18e7d60-cb3e-40fe-bea4-8f4e84d279c1)
+<img align="center" height="200" src="https://cdn2.iconfinder.com/data/icons/luchesa-part-3/128/Programming-1024.png" />
 
 
 <h1 align="center">Hi, I'm Nancy</h1>
 <h3 align="center">"Code today, Deploy Tommorow 💻"</h3>
+
+
+
+
+
+
+
 
 
 ###
@@ -52,8 +58,13 @@ about: # Introduction
 <a href="https://instagram.com/https://www.instagram.com/nancyverma6746" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nancyverma6746" height="30" width="40" /></a>
 </p>
 
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge)](mailto:nancy45815@gmail.com)
 
 ###
+
+
+
+
 
 
 <!--STARTS_HERE_QUOTE_README-->
@@ -65,6 +76,9 @@ about: # Introduction
 - [x] Project 1: AI-Nurse
 - [ ] Project 2: Snake, Water, Gun
 - [ ] Project 3
+
+[![⭐ Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nancy-verma780&repo=AI-Nurse)](https://github.com/nancy-verma780/AI-Nurse)
+
 
 
 ### 🌟 Fun & Live Widgets
@@ -78,18 +92,23 @@ about: # Introduction
 
 ### 📊 GitHub Activity
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nancy-verma780&show_icons=true&theme=transparent)](https://github.com/nancy-verma780/github-readme-stats)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nancy-verma780&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nancy-verma780&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nancy-verma780&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nancy-verma780&" alt="nancy-verma780" /></p>
 
 
-
-[![⭐ Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nancy-verma780&repo=AI-Nurse)](https://github.com/nancy-verma780/AI-Nurse)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nancy-verma780&label=Profile%20views&color=0e75b6&style=flat" alt="nancy-verma780" /> </p>
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nancy-verma780&label=Profile%20views&color=0e75b6&style=flat" alt="nancy-verma780" /> </p>
 
 
 
