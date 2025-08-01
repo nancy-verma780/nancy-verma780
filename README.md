@@ -1,4 +1,4 @@
-| :--------------------------: |
+| :--------------------------------: |
 <img align="center" height="500" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 <h1 align="center">Hi, I'm Nancy</h1>
 <h3 align="center">"Code today, Deploy Tommorow 💻"</h3>
