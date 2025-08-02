@@ -71,7 +71,7 @@ about: # Introduction
 
 ### Small Projects
 - [x] Project 1: AI-Nurse
-- [ ] Project 2: Snake, Water, Gun
+- [x] Project 2: Snake, Water, Gun
 - [ ] Project 3
 
 [![⭐ Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nancy-verma780&repo=AI-Nurse)](https://github.com/nancy-verma780/AI-Nurse)
