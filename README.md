@@ -114,7 +114,7 @@ about: # Introduction
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nancy-verma780&" alt="nancy-verma780" /></p>
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=nancy-verma780&label=Profile%20views&color=0e75b6&style=flat" alt="nancy-verma780" /> </p>
+
 
 
 
