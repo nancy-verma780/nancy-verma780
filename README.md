@@ -72,7 +72,7 @@ about: # Introduction
 ### Small Projects
 - [x] Project 1: AI-Nurse
 - [x] Project 2: Snake, Water, Gun
-- [ ] Project 3
+- [x] Project 3: Guess the Number
 
 [![⭐ Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nancy-verma780&repo=AI-Nurse)](https://github.com/nancy-verma780/AI-Nurse)
 
