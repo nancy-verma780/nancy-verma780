@@ -51,11 +51,6 @@ about: # Introduction
 [![Email](https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge)](mailto:nancy45815@gmail.com)
 
 
-[![Email](https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=#00008B&logoColor=white&style=for-the-badge)](mailto:nancyverma4774@gmail.com)
-
-
-
-
 
 
 ###
