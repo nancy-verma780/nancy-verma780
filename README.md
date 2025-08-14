@@ -77,6 +77,7 @@ about: # Introduction
 - [x] Project 1: AI-Nurse
 - [x] Project 2: Snake, Water, Gun
 - [x] Project 3: Guess the Number
+- [x] Project 4: India-state-capital
 
 [![⭐ Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nancy-verma780&repo=AI-Nurse)](https://github.com/nancy-verma780/AI-Nurse)
 
