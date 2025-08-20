@@ -1,27 +1,28 @@
-name: Generate Pac-Man Game
+name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 */24 * * *"         # Runs daily
-  workflow_dispatch:                # Allows manual runs
-  push:
-    branches:
-      - main
+    - cron: "0 0 * * *"   # Runs daily at midnight
+  workflow_dispatch:     # Allows manual trigger
 
 jobs:
-  generate:
+  generate-snake:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      - name: Generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+      - uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push generated SVG to output branch
+      - name: Push output to branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
