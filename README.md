@@ -14,11 +14,21 @@
 
 
 
+<h3>About Me</h3>
 
-First-Year B.Tech CSE Student(AI & ML) | Passionate About Problem-Solving & Coding | Learning Programming Languages & DSA
+*First-Year B.Tech CSE Student(AI & ML) | Passionate About Problem-Solving & Coding | Learning Programming Languages & DSA.*
+**Aspiring Software Development ENgineer intern, eager to build real-world application with a leading tech learn.**
+
+**Technology excites me and I am always in awe of the change it drives in the world. And what I might lack in skills I make up for with my determination to learn.**
+
+
+**Outside of tech, I am a tea lover an avid painter, experimenting with acrylic and watercolors.**
+
+
 
 
 <img align="right" height="100" src="https://cdn2.iconfinder.com/data/icons/luchesa-part-3/128/Programming-1024.png" />
+
 
 
 
@@ -124,13 +134,15 @@ about: # Introduction
 
 
 
+
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nancy-verma780/nancy-verma780/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nancy-verma780/nancy-verma780/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nancy-verma780/nancy-verma780/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[nancy-verma780]/[nancy-verma780]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[nancy-verma780]/[nancy-verma780]/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/[nancy-verma780]/[nancy-verma780]/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_  
+  
 
 
 
