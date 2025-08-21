@@ -17,10 +17,8 @@
 <h3>About Me</h3>
 
 *First-Year B.Tech CSE Student(AI & ML) | Passionate About Problem-Solving & Coding | Learning Programming Languages & DSA.*
-**Aspiring Software Development ENgineer intern, eager to build real-world application with a leading tech learn.**
 
 **Technology excites me and I am always in awe of the change it drives in the world. And what I might lack in skills I make up for with my determination to learn.**
-
 
 **Outside of tech, I am a tea lover an avid painter, experimenting with acrylic and watercolors.**
 
@@ -33,7 +31,7 @@
 
 
 
- ⚡ Fun fact *🔍 Why are software bugs called “bugs”? In 1947, engineers found a real moth stuck in the Harvard Mark II computer—circuit literal bugs. Grace Hopper logged the incident as “debugging,” and the term stuck!*
+ 
 
 
 
@@ -48,6 +46,7 @@ about: # Introduction
     📩 How to reach me: nancy45815@gmail.com
 ```
 
+⚡ Fun fact *🔍 Why are software bugs called “bugs”? In 1947, engineers found a real moth stuck in the Harvard Mark II computer—circuit literal bugs. Grace Hopper logged the incident as “debugging,” and the term stuck!*
     
 ###
 
