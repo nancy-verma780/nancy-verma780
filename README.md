@@ -61,8 +61,14 @@ about: # Introduction
 ###
 <h3 align="left">Connect With Me!😊</h3>
 <p align="left">
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/nancy-verma-a9b81835b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/nancy-verma-a9b81835b" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/nancyverma6746" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nancyverma6746" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nancy-verma-a9b81835b" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nancy Verma LinkedIn" height="30" width="40" />
+</a>
+
+<a href="https://www.instagram.com/nancyverma6746" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nancyverma6746 Instagram" height="30" width="40" />
+</a>
+
 
 </p>
 
