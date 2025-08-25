@@ -31,7 +31,7 @@
 
 
 
- 
+⚡ Fun fact *🔍 Why are software bugs called “bugs”? In 1947, engineers found a real moth stuck in the Harvard Mark II computer—circuit literal bugs. Grace Hopper logged the incident as “debugging,” and the term stuck!* 
 
 
 
@@ -46,7 +46,7 @@ about: # Introduction
     📩 How to reach me: nancy45815@gmail.com
 ```
 
-⚡ Fun fact *🔍 Why are software bugs called “bugs”? In 1947, engineers found a real moth stuck in the Harvard Mark II computer—circuit literal bugs. Grace Hopper logged the incident as “debugging,” and the term stuck!*
+
     
 ###
 
@@ -126,7 +126,8 @@ about: # Introduction
 
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nancy-verma780&theme=github)
+![GitHub Streak](https://streak-stats.demolab.com/?user=nancy-verma780)
+
 
 
 ###
