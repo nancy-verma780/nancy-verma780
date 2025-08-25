@@ -51,10 +51,11 @@ about: # Introduction
 ###
 
 <div>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nancy-verma780&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" alt="nancy-verma780" /></a> 
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nancy-verma780" alt="nancy-verma780" /></a> 
 </p>
 </div>
+
 
 
 
@@ -123,8 +124,9 @@ about: # Introduction
 ### 📊 GitHub Activity
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nancy-verma780&" alt="nancy-verma780" /></p>
 
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nancy-verma780&theme=github)
 
 
 ###
