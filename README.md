@@ -51,8 +51,9 @@ about: # Introduction
 ###
 
 <div>
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nancy-verma780" alt="nancy-verma780" /></a> 
+<p align="centre">
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 </p>
 </div>
 
