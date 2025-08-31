@@ -50,14 +50,8 @@ about: # Introduction
     
 ###
 
-<div>
-<p align="centre">
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-</p>
-</div>
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=nancy-verma780&theme=dracula&column=3&margin-w=20&margin-h=20&no-frame=true&title=Stars,Followers,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ###
