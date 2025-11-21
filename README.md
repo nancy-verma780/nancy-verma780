@@ -94,15 +94,16 @@ about: # Introduction
 - [x] Project 2: Snake, Water, Gun
 - [x] Project 3: Guess the Number
 - [x] Project 4: India-state-capital
+- [x] Project 5: Calculator
+- [x] Project 6: To-Do-List
 
 
 [![⭐ Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nancy-verma780&repo=AI-Nurse)](https://github.com/nancy-verma780/AI-Nurse)
 
-[![⭐ Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nancy-verma780&repo=Hydro_Viper_Blitz_Fun-)](https://github.com/nancy-verma780/Hydro_Viper_Blitz_Fun-)
 
-[![⭐ Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nancy-verma780&repo=Guess_Fi_Fun-)](https://github.com/nancy-verma780/Guess_Fi_Fun-)<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nancy-verma780&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nancy-verma780&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
-[![⭐ Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nancy-verma780&repo=India-State-capital)](https://github.com/nancy-verma780/India-State-capital)
+
 
 
 
