@@ -122,7 +122,7 @@ about: # Introduction
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=nancy-verma780)
+
 
 
 
