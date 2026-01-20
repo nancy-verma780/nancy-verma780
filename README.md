@@ -61,7 +61,7 @@ about: # Introduction
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nancy Verma LinkedIn" height="30" width="40" />
 </a>
 
-<a href="https://www.instagram.com/nancyverma6746" target="_blank" rel="noopener noreferrer">
+<a href="https://www.instagram.com/n4ncy_09_" target="_blank" rel="noopener noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nancyverma6746 Instagram" height="30" width="40" />
 </a>
 
