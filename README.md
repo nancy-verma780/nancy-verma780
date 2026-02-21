@@ -98,7 +98,7 @@ about: # Introduction
 - [x] Project 6: To-Do-List
 
 
-[![⭐ Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nancy-verma780&repo=AI-Nurse)](https://github.com/nancy-verma780/AI-Nurse)
+
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nancy-verma780&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -128,10 +128,7 @@ about: # Introduction
 
 ###
 
-<div align="left">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nancy-verma780&show_icons=true&locale=en" alt="nancy-verma780" /></p> 
-  
-</div>
+
 </p>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nancy-verma780&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
