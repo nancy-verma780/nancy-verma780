@@ -67,8 +67,9 @@ about: # Introduction
 
 
 </p>
-
-[![Email](https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge)](mailto:nancy45815@gmail.com)
+<a href="mailto:nancy45815@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-nancy45815%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
 
 
