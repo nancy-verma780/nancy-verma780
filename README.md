@@ -86,8 +86,10 @@ about: # Introduction
 <h3 align="left">Problem Solving Profiles👩🏻‍💻</h3>
 <p align="left">
 <a href="https://www.leetcode.com/nancyverma780" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nancyverma780" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/@nancy4fnpi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@nancy4fnpi" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/@nancy4fnpi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@nancyverma780" height="30" width="40" /></a>
 <a href="https://kaggle.com/nancyverma687" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nancyverma687" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nancy45815" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="hackerrank" height="30" width="40"/></a>
+<a href="https://www.codechef.com/users/nacyverma" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40"/> </a>
 
 ### Small Projects
 - [x] Project 1: AI-Nurse
