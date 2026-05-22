@@ -16,7 +16,7 @@
 
 <h3>About Me</h3>
 
-*Second-Year B.Tech CSE Student(AI & ML) | Passionate About Problem-Solving & Coding | Learning Programming Languages & DSA.*
+*First-Year B.Tech CSE Student(AI & ML) | Passionate About Problem-Solving & Coding | Learning Programming Languages & DSA.*
 
 **Technology excites me and I am always in awe of the change it drives in the world. And what I might lack in skills I make up for with my determination to learn.**
 
