@@ -1,6 +1,7 @@
 <div align="center">
 
-<img height="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+  <img height="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  
 
 # Hi, I'm Nancy 👋🏻
 
@@ -124,8 +125,7 @@ print(nancy.greet())
 
 | Widget | Preview |
 |--------|---------|
-| Profile Summary | [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nancy-verma780&theme=solarized_dark)](https://github.com/nancy-verma780) |
-
+| Profile Summary | [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nancy-verma780&theme=nord_dark)](https://github.com/nancy-verma780) |
 
 
 
@@ -141,7 +141,7 @@ print(nancy.greet())
 
 </p>
 
-[![Nancy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nancy-verma780&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true)](https://github.com/nancy-verma780)
+[![Nancy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nancy-verma780&bg_color=ffffff00&color=58A6FF&line=00C896&point=F78166&area=true&hide_border=true)](https://github.com/nancy-verma780)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nancy-verma780/nancy-verma780/output/github-snake-dark.svg">
@@ -158,7 +158,7 @@ print(nancy.greet())
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.deno.dev/?username=nancy-verma780&theme=tokyonight&row=1&no-bg=true&no-frame=true" alt="Nancy's GitHub Trophies" />
+ <img src="https://github-profile-trophy.deno.dev/?username=nancy-verma780&theme=flat&row=1&no-bg=true&no-frame=true" alt="Nancy's GitHub Trophies" />
 </p>
 
 
