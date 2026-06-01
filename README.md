@@ -141,9 +141,7 @@ print(nancy.greet())
 
 </p>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nancy-verma780&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+[![Nancy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nancy-verma780&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true)](https://github.com/nancy-verma780)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nancy-verma780/nancy-verma780/output/github-snake-dark.svg">
@@ -160,7 +158,7 @@ print(nancy.greet())
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.deno.dev/?username=nancy-verma780&theme=gruvbox&row=1&no-bg=true" alt="Nancy's GitHub Trophies" />
+  <img src="https://github-profile-trophy.deno.dev/?username=nancy-verma780&theme=tokyonight&row=1&no-bg=true&no-frame=true" alt="Nancy's GitHub Trophies" />
 </p>
 
 
