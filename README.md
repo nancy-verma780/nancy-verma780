@@ -8,12 +8,22 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=550&lines=First-Year+CSE+(AI+%26+ML)+Student;Open+Source+Contributor+🚀;Learning+DSA+%26+Development" />
 
 
+
+
+
+
  <strong>"Code today, Deploy tomorrow 💻"</strong>
   <p align="center">
     <a href="https://www.linkedin.com/in/nancy-verma-a9b81835b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:nancy45815@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
     <a href="https://www.instagram.com/n4ncy_09_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   </p>
+  <p>
+  <img src="https://img.shields.io/badge/LEVEL-UP-purple?style=for-the-badge&logo=gamejolt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CODE-WARRIOR-black?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OPEN_SOURCE-HUNTER-blueviolet?style=for-the-badge"/>
+</p>
+
 </div>
 
 <p align="center">
@@ -39,7 +49,8 @@
 
 **Outside of tech, I am a tea lover an avid painter, experimenting with acrylic and watercolors.**
 
-<img align="right" height="100" src="https://cdn2.iconfinder.com/data/icons/luchesa-part-3/128/Programming-1024.png" />
+ <img align="right" height="100" src="https://cdn2.iconfinder.com/data/icons/luchesa-part-3/128/Programming-1024.png" />
+
 
 
 
@@ -157,10 +168,17 @@ print(nancy.greet())
 
 
 
-<p align="center">
+<!-- <p align="center">
  <img src="https://github-profile-trophy.deno.dev/?username=nancy-verma780&theme=flat&row=1&no-bg=true&no-frame=true" alt="Nancy's GitHub Trophies" />
-</p>
+</p> -->
 
+<div align="center">
+
+### ✨ Thanks for visiting my profile ✨
+
+<i>Always learning, always building 🚀</i>
+
+</div>
 
 ###
 
