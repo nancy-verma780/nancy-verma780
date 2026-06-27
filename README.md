@@ -5,7 +5,7 @@
 
 # Hi, I'm Nancy 👋🏻
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=550&lines=First-Year+CSE+(AI+%26+ML)+Student;Open+Source+Contributor+🚀;Learning+DSA+%26+Development" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=550&lines=Second-Year+CSE+(AI+%26+ML)+Student;Open+Source+Contributor+🚀;Learning+DSA+%26+Development" />
 
 
 
@@ -43,7 +43,7 @@
 
 <h3>About Me</h3>
 
-*First-Year B.Tech CSE Student(AI & ML) | Passionate About Problem-Solving & Coding | Learning Programming Languages & DSA.*
+*Second-Year B.Tech CSE Student(AI & ML) | Passionate About Problem-Solving & Coding | Learning Programming Languages & DSA.*
 
 **Technology excites me and I am always in awe of the change it drives in the world. And what I might lack in skills I make up for with my determination to learn.**
 
@@ -58,7 +58,7 @@
 class Developer:
     def __init__(self):
         self.name = "Nancy Verma"
-        self.role = "First-Year B.Tech CSE (AI & ML) Student"
+        self.role = "Second-Year B.Tech CSE (AI & ML) Student"
         self.status = "Learning DSA & building foundations"
         
     def greet(self):
