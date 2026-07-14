@@ -172,12 +172,15 @@ print(nancy.greet())
  <img src="https://github-profile-trophy.deno.dev/?username=nancy-verma780&theme=flat&row=1&no-bg=true&no-frame=true" alt="Nancy's GitHub Trophies" />
 </p> 
 
+
+---
 <div align="center">
 
 ### ✨ Thanks for visiting my profile ✨
 
 <i>Always learning, always building 🚀</i>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
 </div>
 
 ###
