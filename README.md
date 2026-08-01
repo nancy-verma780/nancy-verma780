@@ -168,9 +168,9 @@ print(nancy.greet())
 
 
 
- <p align="center">
- <img src="https://github-profile-trophy.deno.dev/?username=nancy-verma780&theme=flat&row=1&no-bg=true&no-frame=true" alt="Nancy's GitHub Trophies" />
-</p> 
+
+ <!-- <img src="https://github-profile-trophy.deno.dev/?username=nancy-verma780&theme=flat&row=1&no-bg=true&no-frame=true" alt="Nancy's GitHub Trophies" /> -->
+
 
 
 ---
