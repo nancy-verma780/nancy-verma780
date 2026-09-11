@@ -150,10 +150,10 @@ print(nancy.greet())
 ###
 
 
-</p>
+<p>
 
 [![Nancy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nancy-verma780&bg_color=ffffff00&color=58A6FF&line=00C896&point=F78166&area=true&hide_border=true)](https://github.com/nancy-verma780)
-
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nancy-verma780/nancy-verma780/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nancy-verma780/nancy-verma780/output/github-snake.svg">
